@@ -1,6 +1,6 @@
-pandas
-numpy
-nltk
-scikit-learn
-joblib
-streamlit
+pandas==2.1.4
+numpy==1.26.4
+nltk==3.8.1
+scikit-learn==1.6.1
+streamlit==1.32.2
+altair==4.2.2
